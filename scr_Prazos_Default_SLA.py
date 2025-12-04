@@ -125,7 +125,7 @@ except Exception as e:
     st.error(f"Erro ao carregar IBGE: {e}")
     st.stop()
 
-st.dataframe(df_ibge.head())
+#st.dataframe(df_ibge.head())
 
 df_ibge.rename(columns={"NOME_MUNICIPIO": "CIDADE"}, inplace=True)
 ###################################
