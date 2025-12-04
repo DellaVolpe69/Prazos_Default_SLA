@@ -182,7 +182,7 @@ st.markdown(f"""
             border-radius: 10px !important;
             font-size: 1rem;
             font-weight: 500;
-            font-color: white !important;
+            font-color: #EDEBE6 !important;
             cursor: pointer;
             transition: 0.2s ease;
             text-decoration: none !important;   /* 👈 AQUI remove de vez */
