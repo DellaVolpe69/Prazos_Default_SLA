@@ -113,7 +113,7 @@ if str(modulos_dir) not in sys.path:
 #from Modulos import AzureLogin
 from Modulos import ConectionSupaBase
 ###################################
-#from Modulos.Minio.examples.MinIO import read_file  # ajuste o caminho se necessário
+from Modulos.Minio.examples.MinIO import read_file  # ajuste o caminho se necessário
 
 @st.cache_data(show_spinner="Carregando IBGE...")
 def load_ibge():
