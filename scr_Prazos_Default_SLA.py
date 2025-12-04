@@ -189,7 +189,7 @@ st.markdown(f"""
             display: inline-block;
         }}
         .stButton > button:hover {{
-            background-color: white !important;
+            background-color: #993700 !important;
             color: #FF5D01 !important;
             transform: scale(1.03);
             font-color: #FF5D01 !important;
