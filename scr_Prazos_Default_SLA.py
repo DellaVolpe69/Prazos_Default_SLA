@@ -45,7 +45,7 @@ st.markdown("""
 <style>
 /* Forçar cor branca em qualquer texto dentro de markdown ou write */
 /* p, span, div, label { */
-p, label {
+div, label {
     color: #EDEBE6 !important;
 }
 </style>
