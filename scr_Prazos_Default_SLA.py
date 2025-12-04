@@ -190,9 +190,9 @@ st.markdown(f"""
         }}
         .stButton > button:hover {{
             background-color: white !important;
-            color: #EDEBE6 !important;
+            color: #FF5D01 !important;
             transform: scale(1.03);
-            font-color: #EDEBE6 !important;
+            font-color: #FF5D01 !important;
             border: 2px solid #FF5D01 !important;
         }}
 
