@@ -192,7 +192,7 @@ st.markdown(f"""
             background-color: white !important;
             color: #FF5D01 !important;
             transform: scale(1.03);
-            font-color: #FF5D01 !important;
+            font-color: #EDEBE6 !important;
             border: 2px solid #FF5D01 !important;
         }}
 
